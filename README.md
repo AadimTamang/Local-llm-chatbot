@@ -3,7 +3,10 @@ This project utilities local llm to have tts and stt for an interactive ai exper
 <br>
 Before starting this project git clone https://github.com/ggerganov/llama.cpp.git in your project folder.
 <br>
-Then Execute these command in order cd llama.cpp
+Then Execute these command in order 
+
+# 1. Move to the llama.cpp folder
+cd llama.cpp
 
 # 2. Create a build directory
 mkdir build
